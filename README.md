@@ -32,3 +32,7 @@ Trabajo de IOT sensores, placa soldada, etc.
 |Módulo 3|![imagen](https://github.com/user-attachments/assets/7c77eecf-0e0d-48c8-b550-ab7efd30df66)|
 |Módulo 4|![imagen](https://github.com/user-attachments/assets/1f5de0e9-1839-47fb-ba90-3838cfb17fbf)|
 |Final|![imagen](https://github.com/user-attachments/assets/76709188-09aa-4f18-97a5-289cd1911672)|
+
+## Flujos Node-Red
+- [Sensores](https://github.com/MiguelAlvarezIbarraUTNG/IOT-Unidad-II/blob/main/flowActuador.json)
+- [Actuadores]()
