@@ -1,0 +1,54 @@
+[
+    {
+        "id": "139ccf831f0b1376",
+        "type": "mqtt in",
+        "z": "590d15aaddba8cfb",
+        "name": "",
+        "topic": "postgres/actuators",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "0d16543b2ffdbac5",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 170,
+        "y": 200,
+        "wires": [
+            [
+                "46352d30d772f5e2"
+            ]
+        ]
+    },
+    {
+        "id": "0d16543b2ffdbac5",
+        "type": "mqtt-broker",
+        "name": "",
+        "broker": "broker.emqx.io",
+        "port": 1883,
+        "clientid": "",
+        "autoConnect": true,
+        "usetls": false,
+        "protocolVersion": 4,
+        "keepalive": 60,
+        "cleansession": true,
+        "autoUnsubscribe": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthRetain": "false",
+        "birthPayload": "",
+        "birthMsg": {},
+        "closeTopic": "",
+        "closeQos": "0",
+        "closeRetain": "false",
+        "closePayload": "",
+        "closeMsg": {},
+        "willTopic": "",
+        "willQos": "0",
+        "willRetain": "false",
+        "willPayload": "",
+        "willMsg": {},
+        "userProps": "",
+        "sessionExpiry": ""
+    }
+]
