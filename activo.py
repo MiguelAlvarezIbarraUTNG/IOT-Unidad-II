@@ -11,7 +11,7 @@ WIFI_PASSWORD = "12345678"
 MQTT_CLIENT_ID = "esp32_buzzer_activo"
 MQTT_BROKER = "broker.emqx.io"
 MQTT_PORT = 1883
-MQTT_TOPIC = "postgres/sensors"
+MQTT_TOPIC = "postgres/actuators"
 
 # Configuración del Buzzer Activo
 BUZZER_PIN = Pin(27, Pin.OUT)  # Conectar buzzer activo al GPIO 27
