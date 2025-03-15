@@ -1,14 +1,16 @@
 # IOT Unidad II
-Miguel Angel Alvarez Ibarra
-Desarrollo de Software Multiplataforma
+Miguel Angel Alvarez Ibarra  
+Desarrollo de Software Multiplataforma  
 GDS0653
 
+<div align="center">
+
 | Ejercicio de Soldadura |
-|-------------|
+|:-------------:|
 |![Imagen de WhatsApp 2025-03-14 a las 10 31 10_2b7826bc](https://github.com/user-attachments/assets/7c997398-b517-41b1-972c-55d81ea5277f)|
 
-| Sensor/Actuador |Diagrama de Conexión|
-|-------------|-------------|
+| Sensor/Actuador | Diagrama de Conexión |
+|:-------------:|:-------------:|
 |[KY-004 Botón Y KY-008 Led Laser](https://drive.google.com/file/d/1xSZuiO0Q1uf3mqa-BP9F3-K82D-wRQQZ/view?usp=drive_link)|[![imagen](https://github.com/user-attachments/assets/b8069fab-0bb5-4c4f-8c38-2818cfbb6a5a)](https://app.cirkitdesigner.com/project/bb6bf2d9-9a7d-45fb-b351-6c83b7f5c121)|
 |[KY-027 Sensor de Inclinación Led](https://drive.google.com/file/d/1w_y73M9YjxP9VsySs2qAI7OBWcKLdHoH/view?usp=drive_link)|[![imagen](https://github.com/user-attachments/assets/0043a010-b29b-4d6b-a383-b0c00531949f)](https://app.cirkitdesigner.com/project/73b22433-27b8-4678-ba75-cc712300fd9c)|
 |[KY-017 Interruptor Mercurio](https://drive.google.com/file/d/1hlHY_XVGtb1hIHJxzp8pslqO_Zu5zCxu/view?usp=drive_link)|[![imagen](https://github.com/user-attachments/assets/5f541f4c-d084-45fe-890c-c6a257b416c3)](https://app.cirkitdesigner.com/project/a670e1f7-8a83-49b8-8e5b-9d4a8f4e6951)|
@@ -27,13 +29,15 @@ GDS0653
 |[Motor de Vibración](https://drive.google.com/file/d/1nzID9OgV7B9G71rrkNb8-vsSQUN8DVHn/view?usp=drive_link)|[![imagen](https://github.com/user-attachments/assets/5397d606-4b62-48c4-802e-48fa3a69bcba)](https://app.cirkitdesigner.com/project/141b0de3-5173-451c-b7c2-c56864f75156)|
 |[MQ135 Calidad del Aire](https://drive.google.com/file/d/1MEYLgObmD-QDiLCzasdVWOQC0zRFWFmS/view?usp=drive_link)|[![imagen](https://github.com/user-attachments/assets/faf328ee-0f7c-48e9-b0a6-8f7218849240)](https://app.cirkitdesigner.com/project/005804f4-d2b4-4077-b144-09514aaaba6b)|
 
-| Examen |Calificación|
-|-------------|-------------|
+| Examen | Calificación |
+|:-------------:|:-------------:|
 |Módulo 1|![imagen](https://github.com/user-attachments/assets/5995e73e-af1b-4b05-ab30-fdcae6504a33)|
 |Módulo 2|![imagen](https://github.com/user-attachments/assets/94f35e13-8440-448d-909e-da886e00930d)|
 |Módulo 3|![imagen](https://github.com/user-attachments/assets/7c77eecf-0e0d-48c8-b550-ab7efd30df66)|
 |Módulo 4|![imagen](https://github.com/user-attachments/assets/1f5de0e9-1839-47fb-ba90-3838cfb17fbf)|
 |Final|![imagen](https://github.com/user-attachments/assets/76709188-09aa-4f18-97a5-289cd1911672)|
+
+</div>
 
 ## Flujos Node-Red
 - [Sensores](https://github.com/MiguelAlvarezIbarraUTNG/IOT-Unidad-II/blob/main/flowSensor.json)
